@@ -14,7 +14,7 @@ Note: This command is unaware of workspaces.
 
 ### Description
 
-Enables tab-completion in all npm commands.
+Enables tab-completion in all npm Icommands.
 
 The synopsis above
 loads the completions into your current shell.  Adding it to
